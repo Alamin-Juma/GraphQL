@@ -1,4 +1,6 @@
 
+//https://www.howtographql.com/graphql-js/6-authentication/
+
 //resolvers receive 4 arguments - parent, args, context, payload
 
 // The context argument is a plain JavaScript object that every resolver in the resolver chain can read from
